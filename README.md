@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Baran Salış 👋</h1>
 
-<!--
-**Baransalis42/Baransalis42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>AI & Software Engineering @ Bahçeşehir University</b><br>
+  Cybersecurity Intern · Web Developer · 3.48 GPA · 100% YÖK Scholar
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Wazuh%20SIEM-0F6E56?style=flat-square&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Software%20Engineering-BAU-185FA5?style=flat-square&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO%20%26%20DevOps-CI%2FCD-854F0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Beşiktaş%2C%20Istanbul-534AB7?style=flat-square&logo=map-pin" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+I'm a third-year student pursuing a double major in **Artificial Intelligence and Software Engineering** at Bahçeşehir University. I'm passionate about applying AI and software tools to real-world problems — from cybersecurity monitoring to building multilingual B2B web platforms.
+
+Currently interning at **Agrafintech** in cybersecurity & networking, where I work with Wazuh SIEM, network traffic analysis, and CI/CD infrastructure monitoring.
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| 🔒 Cybersecurity & Network Intern | Agrafintech | Apr 2026 – Present |
+| 💻 Developer Intern | Krenora Digital Consulting | Dec 2025 – Apr 2026 |
+| 📞 Student Assistant | Bahçeşehir University | Jul 2024 – Dec 2025 |
+
+**Selected Projects @ Krenora:**
+- 🌐 [Dr. Ebru Alper](https://...) — Bilingual (TR/EN) professional website with SEO
+- ⚖️ Melik & Aydın Hukuk — Corporate law firm website
+- 🚀 Uzaymak — Custom accordion-based product navigation UI
+- 🌍 Nayas Global — Multilingual B2B platform (EN/AR)
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages     → Python · Java · SQL · R · HTML · CSS · JavaScript
+Security      → Wazuh SIEM · Network Monitoring · Windows Active Directory
+Web           → WordPress · SEO Optimization · CI/CD Awareness
+Tools         → Microsoft Excel · Git
+```
+
+---
+
+## 🏆 Highlights
+
+- 🎓 **100% YÖK Scholarship** — Full merit-based national scholarship
+- 🏅 **BAU CO-OP Top Talent** — Selected top 25 out of 1,000 students (Sep–Dec 2025)
+- 🎙️ **Reverse Mentoring Program** — Collaborating directly with BAU Rector & General Secretaries (Oct 2025 – Present)
+- 📊 **GPA: 3.48 / 4.00**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baransalis42&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baransalis42&layout=compact&hide_border=true&theme=default" height="150"/>
+</p>
+
+---
+
+## 🌍 Languages
+
+🇹🇷 Turkish — Native &nbsp;|&nbsp; 🇬🇧 English — Professional &nbsp;|&nbsp; 🇩🇪 German — Beginner
+
+---
+
+## 📬 Contact
+
+<p>
+  <a href="mailto:barann.salis@gmail.com">📧 barann.salis@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a> &nbsp;·&nbsp;
+  📍 Beşiktaş, Istanbul
+</p>
