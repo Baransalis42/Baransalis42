@@ -16,9 +16,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a third-year student pursuing a double major in **Artificial Intelligence and Software Engineering** at Bahçeşehir University. I'm passionate about applying AI and software tools to real-world problems — from cybersecurity monitoring to building multilingual B2B web platforms.
+I'm a third-year student at Bahçeşehir University, double-majoring in AI and Software Engineering. Long-term, I want to work in AI R&D — building things, not just deploying them.
+Currently interning at Agrafintech in cybersecurity: network traffic analysis, Wazuh SIEM, CI/CD monitoring. It's not the machine learning work I'll eventually focus on, but understanding how infrastructure breaks has been more useful than I expected.
 
-Currently interning at **Agrafintech** in cybersecurity & networking, where I work with Wazuh SIEM, network traffic analysis, and CI/CD infrastructure monitoring.
 
 ---
 
