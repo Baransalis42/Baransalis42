@@ -69,6 +69,6 @@ Tools         → Microsoft Excel · Git
 
 <p>
   <a href="mailto:barann.salis@gmail.com">📧 barann.salis@gmail.com</a> &nbsp;·&nbsp;
-  <a href="www.linkedin.com/in/baran-saliş-197a13256">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/baran-sali%C5%9F-197a13256">💼 LinkedIn</a> &nbsp;·&nbsp;
   📍 Beşiktaş, Istanbul
 </p>
