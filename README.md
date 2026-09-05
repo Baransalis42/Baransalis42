@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI & Software Engineering @ Bahçeşehir University</b><br>
-  Cybersecurity Intern · 3.48 GPA · 100% YÖK Scholar
+  DevOps & Infrastucture Intern · 3.48 GPA · 100% YÖK Scholar
 </p>
 
 <p align="center">
